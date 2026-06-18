@@ -1,2 +1,2 @@
-CLASE MACHINE LEARNING JRC-
+JRC
 Clase 1 Machine Learning
